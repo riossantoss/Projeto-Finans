@@ -1,6 +1,6 @@
 # 💰 Finans
 
-![Finans Logo](./img/logo.png)
+![Finans Logo](./assets/logo.png)
 
 O **Finans** é um site responsivo desenvolvido como prática de **HTML5, CSS3 e Bootstrap 5**.  
 Ele simula a página inicial de uma plataforma de finanças pessoais, trazendo seções como **Recursos, Benefícios e Preços**, além de um design moderno e adaptado para dispositivos móveis.
@@ -10,7 +10,7 @@ Ele simula a página inicial de uma plataforma de finanças pessoais, trazendo s
 ## 📸 Prévia do Layout
 
 ### Página inicial
-![Finans](.assets/finans.png)
+![Finans](./assets/finans.png)
 
 ---
 
